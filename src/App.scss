@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  // box-sizing: border-box;
+}
+
+
+.game{
+  width: 1050px;
+}
+
+img{
+  display: block;
+  float: left;
+  transition: 0.5s;
+}
+
+.result{
+  position: absolute;
+  top: 50px;
+  left: 1200px;
+  font-size: 50px;
+  font-family: sans-serif;
+}
