@@ -6,7 +6,8 @@
 
 
 .game{
-  width: 1050px;
+  width: 700px;
+  height: 484px;
 }
 
 img{
@@ -16,9 +17,10 @@ img{
 }
 
 .result{
+  display: none;
   position: absolute;
   top: 50px;
-  left: 1200px;
+  left: 710px;
   font-size: 50px;
   font-family: sans-serif;
 }
