@@ -1,10 +1,7 @@
-<h1>Pacman</h1>
+One of my first React projects. In the current version, there is an option to select only one map and one ghost. 
+The project is in the development phase.
 
-This project is based on Pacman.
-
-Technologies which I've been using in Pacman:
-- React,
-- SCSS,
+ACQUAINTED TECHNOLOGIES:
+- React
 - Javascript
-
-Project is in further development.
+- SASS
